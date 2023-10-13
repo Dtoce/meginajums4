@@ -1,0 +1,1 @@
+Informācijas glabāšana, nolasīšana no datnes.
